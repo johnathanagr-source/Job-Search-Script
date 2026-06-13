@@ -1,0 +1,80 @@
+title	location	posted_date	score	url
+Photonics New Product Introduction Engineer	Ottawa	Posted 11 Days Ago	290	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-New-Product-Introduction-Engineer_R030734
+Optical Components Test Engineer	Ottawa	Posted 30+ Days Ago	280	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Components-Test-Engineer_R030610
+Optical Components Product Engineer	Canada- Ottawa- 5050 Innovation- Bldg A	Posted 11 Days Ago	270	https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--5050-Innovation--Bldg-A/Optical-Components-Product-Engineer_R029987
+Photonics Technical Prime	Ottawa	Posted 16 Days Ago	250	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Technical-Prime_R030655
+Photonics Technical Prime - Junior role	Ottawa	Posted 30+ Days Ago	250	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Technical-Prime---Junior-role_R030656
+Lab Support Installation Technician - onsite Ottawa	Ottawa	Posted 30+ Days Ago	240	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Lab-Support-Installation-Technician---onsite-Ottawa_R030743
+Silicon Photonics Engineer	Ottawa, Canada	Posted 30+ Days Ago	190	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Engineer_2503579-1
+Photonics Software Engineer Intern (12 Months, Fall 2026)	Ottawa	Posted 9 Days Ago	150	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Engineer-Intern--12-Months--Fall-2026-_R031138
+Silicon Photonics Intern - PhD	Ottawa, Canada	Posted 30+ Days Ago	140	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1
+Optical Test Engineer	Ottawa, Canada	Posted 30+ Days Ago	140	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Optical-Test-Engineer_2601317
+Optical Platform Systems Intern (Fall 2026 - 4 months)	Ottawa	Posted 3 Days Ago	120	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Platform-Systems-Intern--Fall-2026---4-months-_R031001
+Senior Optical System Designer	Ottawa	Posted 9 Days Ago	120	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Optical-System-Designer_R030678
+Senior Optical Products Cost Reduction Program Manager	Ottawa	Posted 30+ Days Ago	120	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Optical-Products-Cost-Reduction-Program-Manager_R029890
+QA Automation Developer Intern (Fall 2026 - 8 months)	Ottawa	Posted 22 Days Ago	80	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/QA-Automation-Developer-Intern--Fall-2026---8-months-_R030980
+Global Commodity Manager â€“ Photonics Components	Ottawa	Posted 30+ Days Ago	80	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Global-Commodity-Manager---Photonics-Components_R030255
+Junior PMO / Business Operations Associate Intern	Ottawa	Posted 24 Days Ago	70	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Junior-PMO---Business-Operations-Associate-Intern_R030909
+Quality Assurance Engineer PON / DCOM	Ottawa	Posted 4 Days Ago	50	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Quality-Assurance-Engineer-PON---DCOM_R031140
+CAD Tools Specialist	Ottawa	Posted 30+ Days Ago	50	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/CAD-Tools-Specialist_R030766
+Test Tools & Automation Full Stack Software Engineer	Ottawa	Posted 11 Days Ago	40	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305
+PON Software Engineer, Hybrid - Ottawa	Canada- Ottawa- 385 Terry Fox- Bldg B	Posted 30+ Days Ago	40	https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--385-Terry-Fox--Bldg-B/PON-Software-Engineer--Hybrid---Ottawa_R028536
+Co op - Junior Project Manager	Ottawa	Posted 24 Days Ago	20	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Co-op---Junior-Project-Manager_R030907
+Digital Senior Design Engineer	Ottawa	Posted 30 Days Ago	10	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Digital-Senior-Design-Engineer_R030693
+Analog Layout Staff Engineer	Toronto, Canada	Posted 30+ Days Ago	10	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Analog-Layout-Staff-Engineer_2601370
+Senior Analog Design Engineer	Ottawa	Posted 2 Days Ago	0	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Analog-Design-Engineer_R030674
+Senior ASIC Synthesis and STA Engineer	Ottawa	Posted 30+ Days Ago	0	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-ASIC-Synthesis-and-STA-Engineer_R030199
+Principal Mixed Signal Design Engineer	Toronto, Canada	Posted 30+ Days Ago	0	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Principal-Mixed-Signal-Design-Engineer_2503736-1
+Package Development, Signal Integrity and Power Integrity Principal Engineer	Ottawa, Canada	Posted 30+ Days Ago	0	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Package-Development--Signal-Integrity-and-Power-Integrity-Principal-Engineer_2600606
+R&D AI Platform Engineer / Administrator	Ottawa	Posted 2 Days Ago	-10	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/R-D-AI-Platform-Engineer---Administrator_R030749
+Senior Digital ASIC Design Engineer	Ottawa	Posted 11 Days Ago	-10	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Digital-ASIC-Design-Engineer_R031042
+Digital Senior Verification Engineer	Ottawa	Posted 17 Days Ago	-10	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Digital-Senior-Verification-Engineer_R030696
+Principal Analog Layout Engineer	Ottawa	Posted 30+ Days Ago	-10	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Principal-Analog-Layout-Engineer_R030799
+Senior Analog Layout Engineer	Ottawa	Posted 30+ Days Ago	-10	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Analog-Layout-Engineer_R030800
+DFT Manager	Ottawa, Canada	Posted 30+ Days Ago	-10	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/DFT-Manager_2601053
+Advanced Packaging Engineer - SI/PI	Ottawa, Canada	Posted 30+ Days Ago	-10	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Advanced-Packaging-Engineer---SI-PI_2600165
+Senior Analog RF Design Engineer	Ottawa	Posted 10 Days Ago	-20	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Analog-RF-Design-Engineer_R030914
+Technical Solutions Engineer â€“ Data Center PON	Ottawa	Posted 16 Days Ago	-20	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solutions-Engineer---Data-Center-PON_R030460
+Staff Design Verification Engineer	Toronto, Canada	Posted 30+ Days Ago	-20	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Staff-Design-Verification-Engineer_2600151
+Lab Infrastructure Project Manager	Ottawa	Posted Today	-30	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Lab-Infrastructure-Project-Manager_R031201
+Product Verification Engineer Intern (12 months)	Ottawa	Posted 22 Days Ago	-30	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Engineer-Intern--12-months-_R031002
+Senior Staff System & Modeling Engineer â€“ Wireline Communications	Toronto, Canada	Posted 30+ Days Ago	-30	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Senior-Staff-System---Modeling-Engineer---Wireline-Communications_2601046
+Analog Mixed Signal Design Engineer, Staff	Ottawa, Canada	Posted 30+ Days Ago	-30	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Analog-Mixed-Signal-Design-Engineer--Staff_2600081
+Analog IC Design, Staff Engineer	Toronto, Canada	Posted 30+ Days Ago	-30	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Analog-IC-Design--Staff-Engineer_2600447
+System Integration Specialist Intern	Ottawa	Posted 10 Days Ago	-40	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/System-Integration-Specialist-Intern_R031100
+Electro-Optic Test Automation Engineer Intern (September 2026, 12 months)	Ottawa	Posted 28 Days Ago	-40	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optic-Test-Automation-Engineer-Intern--September-2026--12-months-_R030911
+Wavelogic Embedded Software Development Co-op (Fall 2026 - 4 months)	Ottawa	Posted 29 Days Ago	-40	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Development-Co-op--Fall-2026---4-months-_R030890
+Senior Principal Engineer, Design Verification	Ottawa, Canada	Posted 30+ Days Ago	-40	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Senior-Principal-Engineer--Design-Verification_2600799
+Mechanical Engineering Intern (12month - September 2026)	Ottawa	Posted Yesterday	-60	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mechanical-Engineering-Intern--12month---September-2026-_R031198
+Embedded Software Engineer â€“ Intern	Ottawa	Posted 9 Days Ago	-60	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146
+ASIC Engineer Co-op (Sept 2026, 4 Months)	Ottawa	Posted 15 Days Ago	-60	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Co-op--Sept-2026--4-Months-_R031083
+Hardware Power Engineer - New Grad	Ottawa	Posted 28 Days Ago	-60	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Power-Engineer---New-Grad_R030580
+Analog/RF Design Engineer Intern - Master's Degree	Ottawa, Canada	Posted 30+ Days Ago	-60	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Analog-RF-Design-Engineer-Intern---Master-s-Degree_2502473-1
+Software Engineer 8 month Co-op - Fall/Winter 2026	Ottawa	Posted Today	-70	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-8-month-Co-op---Fall-Winter-2026_R031200
+Senior Software Development Manager	Ottawa	Posted 2 Days Ago	-70	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Software-Development-Manager_R031150
+Research Scientist Engineer - FEC Design Engineer	Canada- Ottawa- 383 Terry Fox- Bldg C	Posted 4 Days Ago	-70	https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Research-Scientist-Engineer---FEC-Design-Engineer_R030724
+AI & Automation Intern â€“ GCN Services Business Operations	Ottawa	Posted 24 Days Ago	-70	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI---Automation-Intern---GCN-Services-Business-Operations_R030906
+Electro-Optic Engineer Intern (September 2026, 12 months)	Ottawa	Posted 28 Days Ago	-70	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optic-Engineer-Intern--September-2026--12-months-_R030888
+Analog Engineer Intern - PhD	Ottawa, Canada	Posted 30+ Days Ago	-70	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1
+Senior Staff Engineer, Design For Test - Automation & Infrastructure	Ottawa, Canada	Posted 30+ Days Ago	-70	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Senior-Staff-Engineer--Design-For-Test---Automation---Infrastructure_2600427
+Model Correlation & SI Intern - Ph. D Degree	Ottawa, Canada	Posted 30+ Days Ago	-70	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Model-Correlation---SI-Intern---Master-s-Degree_2502364
+Analog Mixed Signal Design Engineer, Senior Staff	Toronto, Canada	Posted 30+ Days Ago	-70	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Analog-Mixed-Signal-Design-Engineer--Senior-Staff_2600448
+Senior Advisor, Network Standards	Ottawa	Posted 30 Days Ago	-80	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Advisor--Network-Standards_R030807
+Electronic Reliability Engineer Co-op (4 months, Fall 2026)	Ottawa	Posted 30+ Days Ago	-80	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--4-months--Fall-2026-_R030878
+Analog Engineer Intern - PhD	Vancouver, Canada	Posted 30+ Days Ago	-80	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1
+Analog Design Engineer, Senior Staff	Vancouver, Canada	Posted 30+ Days Ago	-80	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Vancouver-Canada/Analog-Design-Engineer--Senior-Staff_2600469
+Resourcing and Enablement Intern	Ottawa	Posted 24 Days Ago	-90	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Resourcing-and-Enablement-Intern_R030908
+Software Engineer and Tools Developer Intern (Fall 2026)	Ottawa	Posted Today	-100	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752
+Waveserver Software Developer Co-op (Fall 2026)	Ottawa	Posted 15 Days Ago	-100	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2026-_R031080
+Wavelogic Hardware Engineer - New Grad	Ottawa	Posted 30+ Days Ago	-100	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Hardware-Engineer---New-Grad_R028748
+Mixed Signal Design Engineer	Ottawa	Posted 15 Days Ago	-110	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Design-Engineer_R030994
+Hardware (PCBA) Design and Verification Intern	Ottawa	Posted 18 Days Ago	-110	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern_R031027
+6500 Automated Test Team Intern	Ottawa	Posted 30 Days Ago	-110	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/XMLNAME-6500-Automated-Test-Team-Intern_R030854
+Network Engineer Intern (12 Months - Fall 2026)	Canada- Ottawa- 5050 Innovation- Bldg A	Posted 30+ Days Ago	-110	https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--5050-Innovation--Bldg-A/Network-Engineer-Intern--12-Months-_R030434
+Senior Product Applications Engineer - Interconnects	Ottawa	Posted 30+ Days Ago	-110	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Product-Applications-Engineer---Interconnects_R030679
+Senior Manager, Solution Engineering and Introduction	Ottawa	Posted 17 Days Ago	-120	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Manager--Solution-Engineering-and-Introduction_R031054
+Analog Engineer Intern - PhD	Toronto, Canada	Posted 30+ Days Ago	-120	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1
+Senior Staff Digital Design Engineer	Ottawa, Canada	Posted 30+ Days Ago	-120	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Ottawa-Canada/Senior-Staff-Digital-Design-Engineer_2600599
+Sr. Executive Compensation Consultant	Toronto, Canada	Posted 30+ Days Ago	-130	https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Toronto-Canada/Sr-Executive-Compensation-Consultant_2600418
+Director, Component Engineering	Ottawa	Posted 23 Days Ago	-140	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Manager--Component-Engineering_R030396
+Senior Manager, Early in Careers	Ottawa	Posted 22 Days Ago	-190	https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-Manager--Early-in-Careers_R030993

@@ -5,18 +5,19 @@ def score_job(job, title_keywords, location_keywords, optical_keywords, exclude_
     score = 0
 
     if any(k.lower() in job.title.lower() for k in title_keywords):
-        score += 40
+        score += 100
+    else:
+        score -= 100
 
     if any(k.lower() in job.location.lower() for k in location_keywords):
-        score += 35
+        score += 100
+    else:
+        score -= 100
 
-    score += sum(5 for k in optical_keywords if k.lower() in text)
+    score += sum(10 for k in optical_keywords if k.lower() in text)
 
-    score -= sum(15 for k in exclude_keywords if k.lower() in text)
-
-    if "years" in text or "experience" in text:
-        score += 2
-
+    score -= sum(50 for k in exclude_keywords if k.lower() in text)
+       
     return score
 
 def parse_date(date_str):
